@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ dired
+ slime
+ slitex-mode
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (dired . 10)
+ (slitex-mode . 1)
+ (slime . 1)
+)
